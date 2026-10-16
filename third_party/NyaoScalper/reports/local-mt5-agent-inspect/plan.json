@@ -1,0 +1,29 @@
+{
+  "name": "local-mt5-agent-inspect",
+  "title": "Local MT5 Agent Diagnostic",
+  "ea": "nyao_scalper.mq5",
+  "set": "settings/default.set",
+  "version": "unknown",
+  "ea_version": "46.0",
+  "symbol": "XAUUSD",
+  "periods": [
+    "M5"
+  ],
+  "windows": [
+    "2026-09"
+  ],
+  "split": "monthly",
+  "model": "ohlc",
+  "deposit": 2000.0,
+  "currency": "USD",
+  "leverage": 500,
+  "generated": "2026-10-15 01:15",
+  "runs": [
+    {
+      "period": "M5",
+      "window": "2026-09",
+      "report": "nyao_bt_local-mt5-agent-inspect_M5_2026-09",
+      "status": "done"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+**/bin/
+**/obj/
+**/.vs/
+web/node_modules/
+web/.next/
+web/.env*
+data/
+src/AutoScalping.Api/data/
+*.user
+*.suo
+*.log
+.env
+.runtime/
+

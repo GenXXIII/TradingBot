@@ -1,0 +1,29 @@
+{
+  "name": "hybrid-fast-2026-09-10k-profittrail",
+  "title": "Hybrid Fast profit trail September 2026 10k real ticks",
+  "ea": "mt5/Experts/AutoScalperHybrid.mq5",
+  "set": "mt5/Profiles/Presets/AutoScalperHybrid.XAUUSD-2digit-M5.fast-test.set",
+  "version": "fb17954 + uncommitted changes",
+  "ea_version": "46.1",
+  "symbol": "XAUUSD",
+  "periods": [
+    "M5"
+  ],
+  "windows": [
+    "2026-09..2026-09"
+  ],
+  "split": "whole",
+  "model": "real",
+  "deposit": 10000.0,
+  "currency": "USD",
+  "leverage": 500,
+  "generated": "2026-10-15 21:57",
+  "runs": [
+    {
+      "period": "M5",
+      "window": "2026-09..2026-09",
+      "report": "nyao_bt_hybrid-fast-2026-09-10k-profittrail_M5_2026-09-2026-09",
+      "status": "done"
+    }
+  ]
+}

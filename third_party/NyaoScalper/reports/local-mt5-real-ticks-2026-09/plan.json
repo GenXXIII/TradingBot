@@ -1,0 +1,29 @@
+{
+  "name": "local-mt5-real-ticks-2026-09",
+  "title": "Local MT5 Real-Tick Test - September 2026",
+  "ea": "nyao_scalper.mq5",
+  "set": "settings/default.set",
+  "version": "unknown",
+  "ea_version": "46.0",
+  "symbol": "XAUUSD",
+  "periods": [
+    "M5"
+  ],
+  "windows": [
+    "2026-09"
+  ],
+  "split": "monthly",
+  "model": "real",
+  "deposit": 2000.0,
+  "currency": "USD",
+  "leverage": 500,
+  "generated": "2026-10-15 01:18",
+  "runs": [
+    {
+      "period": "M5",
+      "window": "2026-09",
+      "report": "nyao_bt_local-mt5-real-ticks-2026-09_M5_2026-09",
+      "status": "done"
+    }
+  ]
+}

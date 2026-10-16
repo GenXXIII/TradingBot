@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/AutoScalping.Api/AutoScalping.Api.csproj" />
+    <Project Path="src/AutoScalping.Domain/AutoScalping.Domain.csproj" />
+    <Project Path="src/AutoScalping.Engine/AutoScalping.Engine.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/AutoScalping.Tests/AutoScalping.Tests.csproj" />
+  </Folder>
+</Solution>
